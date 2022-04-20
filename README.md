@@ -8,7 +8,7 @@ App que consome a API do GitHub e exibe informações de qualquer repositório p
 - Lidar com Animações
 - Consumo de API JSON (métodos HTTP)
 - Tratar parâmetros passados pela navageção de telas
-- Utilização do recurso [Linking](https://reactnative.dev/docs/linking do React Native, proporcionando ao usuário um redirecionamento para o navegador padrão do dispositivo.
+- Utilização do recurso [Linking](https://reactnative.dev/docs/linking) do React Native, proporcionando ao usuário um redirecionamento para o navegador padrão do dispositivo.
 
 ## 📱 Layout
 
