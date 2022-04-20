@@ -4,8 +4,6 @@ App que consome a API do GitHub e exibe informações de qualquer repositório p
 
 ## 📖 Objetivos Principais do Desafio
 
-
-Desenvolver um app para aluguel de carros e avançar no aprendizado de alguns recursos, como:
 - Buscar e Listar dados da API
 - Lidar com Animações
 - Consumo de API JSON (métodos HTTP)
